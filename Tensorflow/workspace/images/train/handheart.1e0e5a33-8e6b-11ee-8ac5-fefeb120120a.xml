@@ -1,0 +1,26 @@
+<annotation>
+	<folder>handheart</folder>
+	<filename>handheart.1e0e5a33-8e6b-11ee-8ac5-fefeb120120a.jpg</filename>
+	<path>C:\Users\husse\OneDrive\Documents\Machine Learning(EEL4815)\project\TFOD\Tensorflow\workspace\images\collectedimages\handheart\handheart.1e0e5a33-8e6b-11ee-8ac5-fefeb120120a.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>HandHeart</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>146</xmin>
+			<ymin>305</ymin>
+			<xmax>349</xmax>
+			<ymax>415</ymax>
+		</bndbox>
+	</object>
+</annotation>
